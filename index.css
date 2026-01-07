@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Full height */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Original clean dark background (NO glow) */
+body {
+  @apply text-white;
+  background-color: #020617; /* slate-950 */
+}
