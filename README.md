@@ -75,10 +75,10 @@ UniNow reduces information overload and ensures **no opportunity goes unnoticed*
 
 ## 🛠️ Google Technologies Used
 
-- **Firebase Authentication** – Secure user and organizer login  
-- **Firebase Firestore** – Real-time event and registration storage  
-- **Google Maps API** – Location-based event discovery  
-- **Firebase Hosting** – Scalable frontend deployment  
+-  Google Ai Studio 
+-  Gemini
+  
+  
 
 ---
 
