@@ -30,6 +30,8 @@ Registration is built directly into the platform, enabling **instant participati
 
 ---
 
+Here's The Demo link: https://ai.studio/apps/drive/1UaItLPjOdpvfASSLRQs2H586y0r5qW79
+
 ## ✨ Innovation & Differentiation
 
 Unlike existing platforms that merely list events:
